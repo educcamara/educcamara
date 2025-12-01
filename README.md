@@ -1,17 +1,33 @@
-<!--
-**educcamara/educcamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o Eduardo Camara
 
-Here are some ideas to get you started:
+Desenvolvedor com interesse em engenharia de software, automação e boas práticas. Trabalho com foco em clareza, organização e soluções robustas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estatísticas
 
+<div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=educcamara)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Estatísticas gerais -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=educcamara&show_icons=true&include_all_commits=true&count_private=true"/>
+
+<!-- Linguagens mais usadas -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=educcamara&layout=compact"/>
+
+<!-- Streak (dias seguidos de contribuição) -->
+<img height="180em" src="https://streak-stats.demolab.com?user=educcamara"/>
+
+</div>
+
+## O que estou explorando no momento
+- Desenvolvimento web e automação
+- Arquitetura e padrões de projeto
+- Integração contínua e testes
+
+## Tecnologias e ferramentas
+- Linguagens: Python, JavaScript, TypeScript  
+- Frameworks: Node.js, React, Express  
+- Banco de dados: PostgreSQL, MongoDB  
+- DevOps: Docker, GitHub Actions
+
+## Contato
+- GitHub: @educcamara  
+- Email: seu-email@exemplo.com
